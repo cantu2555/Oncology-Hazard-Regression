@@ -22,24 +22,22 @@ The objective of this project is to investigate the complex dynamics of brain tu
 - <b>Anaconda</b>
 - <b>Mac OS</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
-Sentiment Intensity: <br/>
-<img src="https://i.imgur.com/7QYJPH5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Initial Discovery: <br/>
+<img src="https://i.imgur.com/psev1kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sentiment VS Intensity:  <br/>
-<img src="https://i.imgur.com/9EAQWwN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Tumor Type VS Recurrence:  <br/>
+<img src="https://i.imgur.com/LD9Yj28.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Accuracy: <br/>
-<img src="https://i.imgur.com/mxOHE8O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Cox Proportional Hazard Regression: <br/>
+<img src="https://i.imgur.com/pZnwjXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confusion Matrix:  <br/>
-<img src="https://i.imgur.com/eZZhMZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 <br />
 
 </p>
